@@ -1,0 +1,41 @@
+.card {
+  float: left;
+  background: none;
+}
+.card-title {
+  text-align: center;
+}
+.a {
+  height: 200px;
+  position: relative;
+}
+.center {
+margin-left: 26%;
+position: absolute;
+}
+.btn-warning {
+  background-color: #ffcc33;
+  border-color: none;
+}
+.form {
+  margin-bottom: 50px;
+}
+.text-align {
+  text-align: right;
+}
+
+p {
+  color: #ff6600
+}
+h3, h5, label{
+  color: #ff0600
+}
+i {
+  color: #ffcc33
+}
+body {
+  background-color: #282828;
+}
+hr {
+  background-color: #ffcc33;
+}
