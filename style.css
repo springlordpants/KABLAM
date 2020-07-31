@@ -1,6 +1,8 @@
 .card {
   float: left;
   background: none;
+  position: relative;
+  left: 100px;
 }
 .card-title {
   text-align: center;
@@ -23,7 +25,6 @@ position: absolute;
 .text-align {
   text-align: right;
 }
-
 p {
   color: #ff6600
 }
